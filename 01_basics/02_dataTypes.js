@@ -1,17 +1,21 @@
-"use strict" ; // treat all JS as newer version 
+"use strict"; // treat all JS code as newer version
 
-// alert(3+3) // we are using nodejs , not browser 
+// alert( 3 + 3) // we are using nodejs, not browser
 
-console.log(5+4)
+console.log(3 
+    +
+     3) // code readability should be high
 
-console.log("Pradhuman")
+console.log("Hitesh")
 
-let name = "honey"
-let age = 20
+
+let name = "hitesh"
+let age = 18
 let isLoggedIn = false
+let state;
 
-// number => 2 to the power of 53
-// bigint 
+// number => 2 to power 53
+// bigint
 // string => ""
 // boolean => true/false
 // null => standalone value
