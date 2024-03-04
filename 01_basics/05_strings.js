@@ -29,7 +29,7 @@ const newStringOne = "   honey    "
 console.log(newStringOne);
 console.log(newStringOne.trim());
 
-const url = "https://hitesh.com/hitesh%20choudhary"
+const url = "https://pradhuman.com/pradhuman%20chaudhary"
 
 console.log(url.replace('%20', '-'))
 
